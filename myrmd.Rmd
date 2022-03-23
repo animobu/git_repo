@@ -1,0 +1,14 @@
+--- 
+author: Ana 
+title: title
+output: html_document
+
+---
+
+#Title
+
+this is some text with in line code 2
+
+```{r}
+plot(1)
+```
